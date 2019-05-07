@@ -10,5 +10,22 @@
         android:id="@+id/lstWords"
         android:layout_width="match_parent"
         android:layout_height="match_parent"></ListView>
+    <EditText
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:id="@+id/editText"
+
+        android:layout_marginLeft="20dp"
+
+        android:layout_marginRight="20dp"
+
+        android:layout_alignParentTop="true"
+
+        android:layout_alignParentLeft="true"
+
+        android:layout_alignParentStart="true" />
 
 </LinearLayout>
